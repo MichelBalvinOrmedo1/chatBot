@@ -1,0 +1,10 @@
+{
+   "precio":{
+    "pollo_fresco":12.5,
+    "pollo_congelado" :10,
+    "menudencia":5
+   },
+   "metodo_pago":["Paypal","Tarjeta de Credito","Tarjeta de Devito","Yape","Plin"]
+}
+
+
